@@ -5,7 +5,7 @@ def main():
     y = x + y
     print(y)
     
-    computerCourses = ["CS286", "CS325", "CS140", "CS150", "CS234", "CS111", "CS150"]
+    computerCourses = ["CS325", "CS140", "CS234", "CS111", "CS150"]
     
     for z in computerCourses:
         if z == "CS150":
