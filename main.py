@@ -8,7 +8,7 @@ def main():
     computerCourses = ["CS286", "CS325", "CS140", "CS150", "CS234", "CS111", "CS150", "CS 314", "CS 330", "CS 340"]
     
     for z in computerCourses:
-        if z == "CS150":
+        if z == "CS 330":
             break
         else:
             print(z + "Course")
